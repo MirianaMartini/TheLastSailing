@@ -3,4 +3,16 @@
 1. Modeling and rendering of a 3D scene, using Blender
 2. Realization of an interactive graphic application 2D/3D, using openGL
 
+
+#Rendering
+![image](https://github.com/MirianaMartini/TheLastSailing/blob/main/Rendering/Render_1.png)
+![image](https://github.com/MirianaMartini/TheLastSailing/blob/main/Rendering/Render_2.png)
+![image](https://github.com/MirianaMartini/TheLastSailing/blob/main/Rendering/Render_3.png)
+![image](https://github.com/MirianaMartini/TheLastSailing/blob/main/Rendering/Render_4.png)
+![image](https://github.com/MirianaMartini/TheLastSailing/blob/main/Rendering/Render_5.png)
+![image](https://github.com/MirianaMartini/TheLastSailing/blob/main/Rendering/Render_6.png)
+
+#Game
+
+
 Creators: Miriana Martini, Roberta Macaluso
