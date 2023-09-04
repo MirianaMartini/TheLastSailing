@@ -1,0 +1,26 @@
+Info,  T22132: Load models\Models.obj
+Info,  T22132: Found a matching importer for this file format
+Info,  T22132: Import root directory is 'models\'
+Info,  T22132: Entering post processing pipeline
+Info,  T22132: RemoveRedundantMatsProcess finished. 7 redundant and 1 unused materials
+Warn,  T22132: Found 2 degenerated primitives
+Skipping one or more lines with the same contents
+Warn,  T22132: Found 88 degenerated primitives
+Warn,  T22132: Found 4 degenerated primitives
+Skipping one or more lines with the same contents
+Error, T22132: Failed to triangulate polygon (no ear found). Probably not a simple polygon?
+Skipping one or more lines with the same contents
+Info,  T22132: TriangulateProcess finished. All polygons have been triangulated.
+Info,  T22132: Points: 1, Lines: 7, Triangles: 1794, Polygons: 0 (Meshes, X = removed)
+Error, T22132: FindInvalidDataProcess fails on mesh uvcoords: All vectors are identical
+Skipping one or more lines with the same contents
+Error, T22132: FindInvalidDataProcess fails on mesh normals: Found zero-length vector
+Info,  T22132: FindInvalidDataProcess finished. Found issues ...
+Info,  T22132: GenVertexNormalsProcess finished. Vertex normals have been calculated
+Info,  T22132: Tangents are undefined for line and point meshes
+Skipping one or more lines with the same contents
+Info,  T22132: JoinVerticesProcess finished | Verts in: 1266716 out: 742818 | ~41.4%
+Error, T22132: This algorithm works on triangle meshes only
+Skipping one or more lines with the same contents
+Info,  T22132: Cache relevant are 1794 meshes (446107 faces). Average output ACMR is 1.698371
+Info,  T22132: Leaving post processing pipeline

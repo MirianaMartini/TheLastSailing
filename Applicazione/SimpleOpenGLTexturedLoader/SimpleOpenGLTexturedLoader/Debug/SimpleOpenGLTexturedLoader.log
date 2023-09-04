@@ -1,0 +1,19 @@
+﻿  cl : warning della riga di comando D9035 : l'opzione 'Gm' è deprecata e verrà rimossa in una futura versione
+  StateMachine.cpp
+  Sounds.cpp
+  Main.cpp
+  Ship.cpp
+  Score.cpp
+  Rock.cpp
+  Render.cpp
+  PowerUp.cpp
+  Mouse.cpp
+  Keyboard.cpp
+  File.cpp
+D:\OpenGLProject\SimpleOpenGLTexturedLoader\SimpleOpenGLTexturedLoader\File.cpp(73,14): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Enemy.cpp
+  Bullet.cpp
+  Animations.cpp
+  Generazione del codice in corso...
+Animations.obj : warning LNK4075: '/EDITANDCONTINUE' ignorato a causa della specifica di '/SAFESEH'
+  SimpleOpenGLTexturedLoader.vcxproj -> D:\OpenGLProject\SimpleOpenGLTexturedLoader\Debug\SimpleOpenGLTexturedLoader.exe
